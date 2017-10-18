@@ -1,0 +1,1 @@
+	<img src="../gm.png" class="img-responsire center-block">
